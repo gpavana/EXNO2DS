@@ -1,12 +1,12 @@
-# EXNO2
-# DATE:
-# AIM:
+### EXNO2
+#### DATE:
+#### AIM:
  To perform Exploratory Data Analysis on the given data set.
       
-# EXPLANATION:
+#### EXPLANATION:
   The primary aim with exploratory analysis is to examine the data for distribution, outliers and anomalies to direct specific testing of your hypothesis.
   
-# ALGORITHM:
+#### ALGORITHM:
 STEP 1: Import the required packages to perform Data Cleansing,Removing Outliers and Exploratory Data Analysis.
 
 STEP 2: Replace the null value using any one of the method from mode,median and mean based on the dataset available.
@@ -23,9 +23,9 @@ STEP 7: Use cross tabulation method to quantitatively analyze the relationship b
 
 STEP 8: Use heatmap method of representation to show relationships between two variables, one plotted on each axis.
 
-## CODING AND OUTPUT
-## DEVELOPED BY:PAVANA.G
-## REGISTER NUMBER : 212222230105
+#### CODING AND OUTPUT
+#### DEVELOPED BY:PAVANA.G
+#### REGISTER NUMBER : 212222230105
 ![image](https://github.com/SamyukthaSreenivasan/EXNO2DS/assets/119475703/862d52d2-4e22-4b7e-8b30-bfe7e1a5e2f1)
 
 ![image](https://github.com/SamyukthaSreenivasan/EXNO2DS/assets/119475703/1a7bef76-83b3-45fb-8a7b-0b4e13423fb8)
@@ -94,5 +94,5 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 
 ![image](https://github.com/SamyukthaSreenivasan/EXNO2DS/assets/119475703/9e3dac99-f9cb-4cbe-a1e1-2888fc7439ce)
 
-# RESULT
+#### RESULT
 Thus the program to perform Exploratory Data Analysis on the given data set is successfully implemented.
